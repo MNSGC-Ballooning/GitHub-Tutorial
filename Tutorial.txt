@@ -3,3 +3,4 @@ GitHub Tutorial: write your name on a new line and push it to the MNSGC-Ballooni
 Ryan Bowers
 Danny Toth
 Austin Langford
+Simon Peterson
